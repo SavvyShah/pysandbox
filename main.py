@@ -7,4 +7,7 @@ class Solution:
             a, b = input().split()
             a, b = int(a), int(b)
             arr.append((a, b))
+        print(n)
+        print(m)
+        print(arr)
         return arr
